@@ -6,5 +6,8 @@ public class Forkewrach {
 @Test
 public void m2() {
 	System.out.println("ravi dhuakor ");
+	System.out.println("ravi dhuakor ");
+	System.out.println("ravi dhuakor ");
+	System.out.println("ravi dhuakor ");
 }
 }
